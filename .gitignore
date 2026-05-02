@@ -2,3 +2,4 @@
 *.pdb
 *.exe
 playground/
+.DS_Store
