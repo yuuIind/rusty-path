@@ -3,3 +3,8 @@
 *.exe
 playground/
 .DS_Store
+
+Cargo.lock
+.vscode/
+solutions/
+
